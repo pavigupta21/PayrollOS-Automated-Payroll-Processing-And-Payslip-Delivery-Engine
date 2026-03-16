@@ -21,7 +21,7 @@ http://payroll-host-bucket.s3-website.ap-south-1.amazonaws.com
 
 # Frontend Screenshot
 
-
+<img src="Screenshot (2089).png" width="100%"/>
 
 **Note:**  
 For testing purposes, all employee records currently use my email address so that generated payslips can be delivered to a single inbox.  
