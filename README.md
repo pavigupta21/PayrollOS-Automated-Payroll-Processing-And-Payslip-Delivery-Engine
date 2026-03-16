@@ -45,7 +45,7 @@ Main system components:
 
 Architecture Diagram:
 
-<img src="architecture.png" width="100%"/>
+<img src="diagram-payroll.png" width="100%"/>
 
 ---
 
