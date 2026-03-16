@@ -15,13 +15,13 @@ The HR dashboard is deployed using **Amazon S3 Static Website Hosting**.
 
 **Live Application**
 
-https://payroll-host-bucket.s3.ap-south-1.amazonaws.com/index.html
+http://payroll-host-bucket.s3-website.ap-south-1.amazonaws.com
 
 ---
 
 # Frontend Screenshot
 
-<img src="screenshot.png" width="100%"/>
+
 
 **Note:**  
 For testing purposes, all employee records currently use my email address so that generated payslips can be delivered to a single inbox.  
